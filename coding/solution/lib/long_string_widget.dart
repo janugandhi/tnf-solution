@@ -38,10 +38,9 @@ class LongStringWidget extends StatelessWidget {
     finalVSConst() {
       var list1 = ['I', '💙', 'Flutter'];
 
-      var list2 = list1;
+      final list2 = list1;
       list2[2] = 'Dart';
       
-
       const list3 = list1;
     }
   }
