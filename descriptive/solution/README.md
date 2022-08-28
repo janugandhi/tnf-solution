@@ -4,7 +4,7 @@
     
         Practically, yes we can nest Scaffold widget. It might be not a good approach for the code but it is feasible to have nested Scaffold. In Flutter, almost everything is a Widget. Scaffold is also a widget and hence can be passed as a widget to body of parent Scaffold.
 
-![Image](/screenshot.png)
+![Image](/descriptive/solution/screenshot.png)
 
 <br />
 
