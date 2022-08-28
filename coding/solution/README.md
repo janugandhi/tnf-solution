@@ -4,6 +4,7 @@
     
         Row widget can be replaced with Wrap. As the name suggest, Wrap widget has the capability to wrap the content to next line. It displays its children with Horizontal and Vertical runs. Wrap widget is helpful when creating Filters or Preferences like UI.
 
+![Image](/screenshot.png)
 <br />
 
 2. > Problem 2
